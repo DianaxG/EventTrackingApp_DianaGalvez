@@ -17,7 +17,7 @@ Each screen was designed with the user’s experience in mind, prioritizing clea
 The UI designs were successful because they kept the user flow simple and intuitive, minimizing friction points and focusing on essential actions.
 
 ## Coding Process and Techniques
-When coding the app, I focused heavily on modularity and clarity. Each major feature, database management, user authentication, event CRUD operations, and permission handling — was separated into manageable parts. I used helper classes like `DatabaseHelper` and maintained consistent naming conventions to keep the code organized and easy to debug.
+When coding the app, I focused heavily on modularity and clarity. Each major feature, database management, user authentication, event CRUD operations, and permission handling, was separated into manageable parts. I used helper classes like `DatabaseHelper` and maintained consistent naming conventions to keep the code organized and easy to debug.
 
 This modular approach helped me troubleshoot and make improvements faster, and it’s a strategy I will continue to apply in future app development projects.
 
