@@ -34,5 +34,5 @@ Another challenge was making sure the app still provided a smooth user experienc
 ## Strengths and Successes
 I am particularly proud of how the app’s database design and event management features turned out. The app successfully performs Create, Read, Update, and Delete (CRUD) operations on user-created events while maintaining data persistence using SQLite.
 
-This project helped me bring together multiple mobile development skills, UI design, coding best practices, permission handling, and user-centered thinking — into a complete, working application that I am proud to showcase.
+This project helped me bring together multiple mobile development skills, UI design, coding best practices, permission handling, and user-centered thinking, into a complete, working application that I am proud to showcase.
 
